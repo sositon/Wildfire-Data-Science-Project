@@ -17,13 +17,6 @@ The project is part of the Applied Competitive Lab and requires:
 - A requirements.txt file for the necessary libraries.
 - Submission of up-to-date notebooks every two weeks.
 
-## Group Members
-
-- Omer Siton - 316123819
-- Itay Ottenheimer - 209493519
-- Shay Cohen - 207283094
-- Mia Segev Gal - 208730960
-
 ## Project Structure
 
 1. **Exploring and Cleaning the Data**
