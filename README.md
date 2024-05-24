@@ -43,19 +43,19 @@ The project is part of the Applied Competitive Lab and requires:
 
 To run the project, clone this repository and install the necessary libraries using the requirements.txt file:
 
-\`\`\`bash
-git clone https://github.com/yourusername/wildfire-cause-prediction.git
+```bash
+git clone https://github.com/sositon/wildfire-cause-prediction.git
 cd wildfire-cause-prediction
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Usage
 
 Run the Jupyter notebook to see the entire workflow:
 
-\`\`\`bash
+```bash
 jupyter notebook Wildfires_Prediction.ipynb
-\`\`\`
+```
 
 ## Dependencies
 
@@ -69,19 +69,10 @@ The project requires the following libraries, as listed in requirements.txt:
 - geopandas
 - shapely
 
-## Contribution Guidelines
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (\`git checkout -b feature-branch\`).
-3. Commit your changes (\`git commit -m 'Add new feature'\`).
-4. Push to the branch (\`git push origin feature-branch\`).
-5. Open a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
-We would like to thank our instructor and classmates for their support and feedback throughout this project. Special thanks to Kaggle for providing the dataset.
+We would like to thank our instructor and classmates for their support and feedback throughout this project.
