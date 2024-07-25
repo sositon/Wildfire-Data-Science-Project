@@ -69,10 +69,6 @@ The project requires the following libraries, as listed in requirements.txt:
 - geopandas
 - shapely
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
-We would like to thank our instructor and classmates for their support and feedback throughout this project.
+I would like to thank my instructor and classmates for their contribution and feedback throughout this project.
